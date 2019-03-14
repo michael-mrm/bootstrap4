@@ -1,0 +1,22 @@
+.form-signin .form-control {
+	position: relative;
+	box-sizing: border-box;
+	height: auto;
+	padding: 10px;
+	font-size: 16px;
+	width: 200px;
+	float: right;
+}
+form.form-signin > label {
+	float: left;
+	line-height: 45px;
+}
+
+.form-signin input[type="text"] {
+    margin-bottom: 10px;
+  }
+
+form.form-signin button.btn.btn-lg.btn-primary.btn-block{
+	background-color: #003e80;
+	border-color: #007bff;
+}
